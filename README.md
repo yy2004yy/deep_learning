@@ -73,7 +73,7 @@
 
 | 项目名称 | 领域 | 关键技术与模型 | 简介 |
 | :--- | :--- | :--- | :--- |
-| **[基于CNN的图像分类器](projects/image-classifier)** | `计算机视觉` | `PyTorch`, `CNN`, `ResNet`, `数据增强` | 使用自定义CNN和预训练的ResNet模型，在CIFAR-10数据集上实现高精度图像分类。 |
+| **[基于CNN的图像分类器](project/)** | `计算机视觉` | `PyTorch`, `CNN`, `ResNet`, `数据增强` | 使用自定义CNN和预训练的ResNet模型，在CIFAR-10数据集上实现高精度图像分类。 |
 | **[新闻文本分类与情感分析](projects/text-classification)** | `自然语言处理` | `TensorFlow`, `LSTM`, `BERT`, `Hugging Face` | 利用LSTM和微调BERT模型对新闻主题进行分类并对评论进行情感分析。 |
 | **[实时目标检测系统](projects/object-detection)** | `计算机视觉` | `PyTorch`, `YOLOv5`, `OpenCV` | 基于YOLOv5实现实时目标检测，并封装为可用的演示程序。 |
 | **[AI绘画：扩散模型初探](projects/diffusion-model)** | `生成模型` | `PyTorch`, `Diffusion`, `U-Net` | 从零开始实现一个基础的扩散模型，用于生成手写数字图像。 |
@@ -121,8 +121,8 @@
 
 如果你对我的项目、学习路线或任何相关话题感兴趣，非常欢迎与我交流！
 
-*   **📧 邮箱**： [your-email@example.com](mailto:your-email@example.com)
-*   **💼 LinkedIn**： [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+*   **📧 邮箱**： [your-email@example.com](1194571448@qq.com)
+*   **💼 LinkedIn**： [Your LinkedIn Profile](https://www.linkedin.com/in/%E7%83%A8-%E6%9D%A8-193140391/)
 *   **🐙 GitHub**： 你正在这里！
 
 **如果你觉得这个仓库对你有帮助，请给它一个 ⭐ Star！** 这对我将是莫大的鼓励。
